@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="<img src="https://raw.githubusercontent.com/suhanapriya/suhanapriya/main/metrics.svg" alt="GitHub metrics"  />
+  <img src="<img src="https://raw.githubusercontent.com/suhanapriya/suhanapriya/main/metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
