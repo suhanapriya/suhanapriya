@@ -44,8 +44,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [add your link here]
-- 🌐 Portfolio: [add your link here]
+- 💼 LinkedIn: https://www.linkedin.com/in/suhana-priya-7ba29b394?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 🌐 Portfolio: https://portfolio-41gi.vercel.app/
 - 📧 Email: priyasuhana9@gmail.com
 
 <p align="center"><i>Open to backend / systems engineering opportunities.</i></p>
