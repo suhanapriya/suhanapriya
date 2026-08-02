@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanapriya&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="<img src="https://raw.githubusercontent.com/suhanapriya/suhanapriya/main/metrics.svg" alt="GitHub metrics"  />
 </p>
 
 ---
