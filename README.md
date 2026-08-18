@@ -163,7 +163,7 @@ My goal is to turn research ideas into working systems and continuously improve 
 ### 📫 Let's Connect
 
 * 💼 LinkedIn: https://www.linkedin.com/in/suhana-priya-7ba29b394
-* 🌐 Portfolio: https://portfolio-41gi.vercel.app/
+* 🌐 Portfolio: [https://portfolio-41gi.vercel.app/](https://ai-portfolio-git-main-suhanapriyas-projects.vercel.app/)
 * 📧 Email: [priyasuhana9@gmail.com](mailto:priyasuhana9@gmail.com)
 
 <p align="center">
