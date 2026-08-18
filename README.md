@@ -31,6 +31,19 @@ I like taking a system apart, understanding why it works, and rebuilding the imp
 
 ### 🔬 Featured AI Projects
 
+
+**[Patent Research AI Agent](https://github.com/suhanapriya/Patent-Research-AI-Agent)**
+An AI-powered research workflow designed to assist with patent discovery, retrieval, and synthesis.
+
+* Agent-based research workflow
+* LLM reasoning
+* Semantic retrieval
+* Vector search
+* Information synthesis
+* Modular AI architecture
+
+---
+
 **[Mini-SWE-Agent](https://github.com/suhanapriya/Mini-SWE-Agent)**
 A lightweight LLM-powered software engineering agent built from the ground up.
 
@@ -49,17 +62,6 @@ The project is intentionally built around understanding how coding agents work i
 
 ---
 
-**[Patent Research AI Agent](https://github.com/suhanapriya/Patent-Research-AI-Agent)**
-An AI-powered research workflow designed to assist with patent discovery, retrieval, and synthesis.
-
-* Agent-based research workflow
-* LLM reasoning
-* Semantic retrieval
-* Vector search
-* Information synthesis
-* Modular AI architecture
-
----
 
 **[Fullstack Multimodal Local RAG](https://github.com/suhanapriya/Fullstack-Multimodal-Local-RAG)**
 A full-stack multimodal RAG system designed to retrieve and reason over both textual and visual information while running locally.
