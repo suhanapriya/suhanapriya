@@ -63,7 +63,7 @@ The project is intentionally built around understanding how coding agents work i
 ---
 
 
-**[Fullstack Multimodal Local RAG](https://github.com/suhanapriya/Fullstack-Multimodal-Local-RAG)**
+**[Fullstack Multimodal Local RAG](https://github.com/suhanapriya/Multimodal-RAG-Engine)**
 A full-stack multimodal RAG system designed to retrieve and reason over both textual and visual information while running locally.
 
 * Multimodal document processing
